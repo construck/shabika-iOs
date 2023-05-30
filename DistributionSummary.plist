@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Construck App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>326917375BBCDF0CEFE663F5589B9AFA4D59A090</string>
+				<key>dateExpires</key>
+				<string>23/04/2024</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>326917375BBCDF0CEFE663F5589B9AFA4D59A090</string>
+						<key>dateExpires</key>
+						<string>23/04/2024</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HUX8JMW73D</string>
+						<key>name</key>
+						<string>Construck Ltd</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>326917375BBCDF0CEFE663F5589B9AFA4D59A090</string>
+						<key>dateExpires</key>
+						<string>23/04/2024</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HUX8JMW73D</string>
+						<key>name</key>
+						<string>Construck Ltd</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>326917375BBCDF0CEFE663F5589B9AFA4D59A090</string>
+						<key>dateExpires</key>
+						<string>23/04/2024</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Toast.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HUX8JMW73D</string>
+						<key>name</key>
+						<string>Construck Ltd</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>4.0.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>326917375BBCDF0CEFE663F5589B9AFA4D59A090</string>
+						<key>dateExpires</key>
+						<string>23/04/2024</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>flutter_secure_storage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HUX8JMW73D</string>
+						<key>name</key>
+						<string>Construck Ltd</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>6.0.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>326917375BBCDF0CEFE663F5589B9AFA4D59A090</string>
+						<key>dateExpires</key>
+						<string>23/04/2024</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>fluttertoast.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HUX8JMW73D</string>
+						<key>name</key>
+						<string>Construck Ltd</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.2</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HUX8JMW73D.com.shabika.cons</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HUX8JMW73D</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>25857d8d-7fa8-4613-8c6a-6ae63843e697</string>
+				<key>dateExpires</key>
+				<string>23/04/2024</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.shabika.cons</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HUX8JMW73D</string>
+				<key>name</key>
+				<string>Construck Ltd</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>4.0.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
